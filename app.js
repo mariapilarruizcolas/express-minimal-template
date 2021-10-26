@@ -7,7 +7,7 @@ const items = [
   { id: 2, name: 'item2' },
 ];
 
-app.get('/myCollection', (req, res) => {
+app.get('/myroute', (req, res) => {
   console.log('handling /myroute');
   res.send(items);
 });
