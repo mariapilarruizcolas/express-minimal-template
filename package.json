@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ComicScrip/express-minimal-template#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "eslint": "^7.14.0",
